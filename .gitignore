@@ -12,3 +12,5 @@
 *.out
 
 vendor/
+*.docx
+.DS_Store
